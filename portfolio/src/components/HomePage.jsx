@@ -119,7 +119,7 @@ function HomePage() {
 
             {/* Footer */}
             <footer className="mt-20 text-center text-sm text-gray-300">
-                © 2025 Pranav Tiwari | Built with React.js, Tailwind CSS, and Framer Motion
+                © 2025 Purav | Built with React.js, Tailwind CSS, and Framer Motion
             </footer>
         </div>
     );
