@@ -15,7 +15,7 @@ function HomePage() {
                 transition={{ duration: 0.8, ease: "easeOut" }}
                 whileHover={{ scale: 1.05 }}
             >
-                Welcome to My Portfolio 🚀
+                {/* Welcome to My Portfolio 🚀 */}
             </motion.h1>
 
             {/* Subtitle */}
@@ -31,7 +31,7 @@ function HomePage() {
             <Profile/>
 
             {/* CTA Buttons */}
-            {/* <div className="flex gap-6">
+            <div className="flex gap-6">
                 <Link to="/about">
                     <motion.button
                         className="px-8 py-3 rounded-lg bg-blue-500 hover:bg-blue-600 transition shadow-lg font-semibold text-white"
@@ -115,11 +115,11 @@ function HomePage() {
                                         </Link>
                     </div>
                 </motion.div>
-            </div> 
+            </div>
 
             {/* Footer */}
             <footer className="mt-20 text-center text-sm text-gray-300">
-                © 2025 Purav | Built with React.js, Tailwind CSS, and Framer Motion
+                © 2025 Pranav Tiwari | Built with React.js, Tailwind CSS, and Framer Motion
             </footer>
         </div>
     );

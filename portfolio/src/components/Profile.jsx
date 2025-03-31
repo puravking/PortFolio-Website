@@ -65,11 +65,11 @@ function Profile() {
                 </div>
 
                 {/* Button to About Section */}
-                <div className="mt-8 text-center">
+                {/* <div className="mt-8 text-center">
                     <a href="/about-me" className="inline-block bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-yellow-400 transition-all duration-300 shadow-md transform hover:scale-105">
                         Learn More About Me →
                     </a>
-                </div>
+                </div> */}
             </motion.div>
 
         </motion.div>
