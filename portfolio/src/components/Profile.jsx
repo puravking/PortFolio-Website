@@ -55,12 +55,12 @@ function Profile() {
                     <div className="flex items-center gap-3 text-gray-300 transition hover:text-blue-400">
                         <FaEnvelope className="text-blue-500" />
                         <a href="mailto:kumarpurav59@gmail.com" className="hover:text-blue-400 transition">
-                            kumarpurav59@gmail.com
+                            pranavtiwari8088@gmail.com
                         </a>
                     </div>
                     <div className="flex items-center gap-3 text-gray-300 transition hover:text-green-400">
                         <FaPhone className="text-green-500" />
-                        <span>+91 9548553251</span>
+                        <span>+91 9548563251</span>
                     </div>
                 </div>
 
