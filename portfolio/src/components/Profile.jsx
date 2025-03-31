@@ -55,7 +55,7 @@ function Profile() {
                     <div className="flex items-center gap-3 text-gray-300 transition hover:text-blue-400">
                         <FaEnvelope className="text-blue-500" />
                         <a href="mailto:kumarpurav59@gmail.com" className="hover:text-blue-400 transition">
-                            pranavtiwari8088@gmail.com
+                            kumarpurav59@gmail.com
                         </a>
                     </div>
                     <div className="flex items-center gap-3 text-gray-300 transition hover:text-green-400">
